@@ -1,10 +1,10 @@
-import BlogCard from './components/BlogCard'
+import BlogCard from "../BlogCard"
 
 function Main() {
 
     return (
     <div className='main'>
-      <BlogCard />
+        <BlogCard />
     </div>
   )
 }
